@@ -32,7 +32,7 @@ public class selecSort {
         for(int i:arr1){  
             System.out.print(i+" ");  
         }  
-        System.out.println();  
+        System.out.println("");  
           
         selectionSort(arr1);//sorting array using selection sort  
          
